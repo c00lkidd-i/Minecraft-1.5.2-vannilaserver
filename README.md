@@ -1,6 +1,6 @@
 # Minecraft-1.5.2-vannilaserver
 my minecraft server
-it haves no plugins and no mods, just vannila
+it haves no plugins and no mods, just vannila.
 works at 1.5.2
 how to start the server:
 1. Download the `Server.zip` archive from this repository.
